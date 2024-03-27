@@ -69,7 +69,7 @@ h1 {
 }
 .container-exercicioB {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
 }
 .container-desafio {
     display: flex;
